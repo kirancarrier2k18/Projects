@@ -1,4 +1,13 @@
-x={1,2,3,4,5}
-y={9,8,7,6,1}
+number=7
+a=0
+b=1
+lst=[a,b]
 
-print(x | y )
+for i in range(0,number-2):
+
+    c=a+b
+    a=b
+    b=c
+    lst.append(c)
+
+print(lst)
