@@ -1,0 +1,5 @@
+cpu_stress:
+duration: 60
+workers: 4
+monitor_interval: 2
+expected_usage: 90
