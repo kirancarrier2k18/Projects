@@ -1,0 +1,5 @@
+ssh:
+  ip: "192.168.1.100"
+  username: "user"
+  password: "pass"
+  duration: 30
