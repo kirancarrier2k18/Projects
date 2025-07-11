@@ -1,0 +1,13 @@
+Command Output:
+1b:00.0 3D controller: NVIDIA Corporation Device 2901 (rev a1)
+3c:00.0 3D controller: NVIDIA Corporation Device 2901 (rev a1)
+4b:00.0 3D controller: NVIDIA Corporation Device 2901 (rev a1)
+5c:00.0 3D controller: NVIDIA Corporation Device 2901 (rev a1)
+9a:00.0 3D controller: NVIDIA Corporation Device 2901 (rev a1)
+bb:00.0 3D controller: NVIDIA Corporation Device 2901 (rev a1)
+cd:00.0 3D controller: NVIDIA Corporation Device 2901 (rev a1)
+dc:00.0 3D controller: NVIDIA Corporation Device 2901 (rev a1)
+
+Error Output:
+/root/.bashrc: line 1: 12.8: No such file or directory
+/root/.bashrc: line 2: 12.8: No such file or directory
